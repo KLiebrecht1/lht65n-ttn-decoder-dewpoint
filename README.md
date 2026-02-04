@@ -2,3 +2,6 @@
 Simple TTN V3 payload decoder for the Dragino LHT65N with calculated dew point
 
 > set **external=true** if you use an ext. temp. sensor !
+
+Source of the formulas (german): 
+https://www.wetterochs.de/wetter/feuchte.html#f1
